@@ -1,0 +1,12 @@
+*.zip
+*.gz
+*.jpg
+*.png
+*.h5
+*.json
+*.npz
+*.np
+*.m
+*.mat
+*.pt
+*.npy
