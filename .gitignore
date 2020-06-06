@@ -10,3 +10,4 @@
 *.mat
 *.pt
 *.npy
+*.pth
